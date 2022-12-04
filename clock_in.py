@@ -82,7 +82,7 @@ def login():
     return headers
 
 def setLocation():
-    real_address = "湖南大学天马学生公寓" # 在此填写详细地址
+    real_address = "湖南大学天马学生公寓3区11栋" # 在此填写详细地址
     return real_address
 
 def main():
